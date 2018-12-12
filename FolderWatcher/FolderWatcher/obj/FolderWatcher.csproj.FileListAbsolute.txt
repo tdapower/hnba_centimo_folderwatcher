@@ -1,0 +1,14 @@
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.pdb
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.exe
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.pdb
+E:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\itextsharp.dll
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.exe
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.pdb
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.pdb
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\bin\Debug\itextsharp.dll
+D:\Development\QUICKINFO_V2_MNB_Workflow\FolderFileReader\FolderWatcher\FolderWatcher\obj\Debug\ResolveAssemblyReference.cache

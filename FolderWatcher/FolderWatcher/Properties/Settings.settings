@@ -1,0 +1,121 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FolderWatcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBConString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt; SERVER=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.160)(PORT=1580))(CONNECT_DATA=(SERVICE_NAME=apps))); uid=hnba_crc;pwd=HNBACRC;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)"> SERVER=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.10.160)(PORT=1580))(CONNECT_DATA=(SERVICE_NAME=apps))); uid=hnba_crc;pwd=HNBACRC;</Value>
+    </Setting>
+    <Setting Name="PathNewBusiness" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS\NEW\</Value>
+    </Setting>
+    <Setting Name="PathRenewal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS\RENEWAL\</Value>
+    </Setting>
+    <Setting Name="PathEndorsement" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS\ENDORSEMENT\</Value>
+    </Setting>
+    <Setting Name="PathCancellation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS\CANCELLATION\</Value>
+    </Setting>
+    <Setting Name="PathQueuedNewBusiness" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\QUEUED_SCN_DOCS\NEW\</Value>
+    </Setting>
+    <Setting Name="PathQueuedRenewal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\QUEUED_SCN_DOCS\RENEWAL\</Value>
+    </Setting>
+    <Setting Name="PathQueuedEndorsement" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\QUEUED_SCN_DOCS\ENDORSEMENT\</Value>
+    </Setting>
+    <Setting Name="PathQueuedCancellation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\QUEUED_SCN_DOCS\CANCELLATION\</Value>
+    </Setting>
+    <Setting Name="LogFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\LOGS\log_of_</Value>
+    </Setting>
+    <Setting Name="SYSTEM_NAME_TCS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TCS</Value>
+    </Setting>
+    <Setting Name="SYSTEM_NAME_TAKAFUL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Takaful</Value>
+    </Setting>
+    <Setting Name="PathUnknownNewBusiness" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\UNKNOWN_SCN_DOCS\NEW\</Value>
+    </Setting>
+    <Setting Name="PathUnknownRenewal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\UNKNOWN_SCN_DOCS\RENEWAL\</Value>
+    </Setting>
+    <Setting Name="PathUnknownEndorsement" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\UNKNOWN_SCN_DOCS\ENDORSEMENT\</Value>
+    </Setting>
+    <Setting Name="PathUnknownCancellation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\UNKNOWN_SCN_DOCS\CANCELLATION\</Value>
+    </Setting>
+    <Setting Name="UnknownInvalidJobNo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Invalid Job No</Value>
+    </Setting>
+    <Setting Name="UnknownAlreadyCompletedJob" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Already Completed Job</Value>
+    </Setting>
+    <Setting Name="UnknownFileError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">File Error</Value>
+    </Setting>
+    <Setting Name="PathNewBusiness2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_2\NEW\</Value>
+    </Setting>
+    <Setting Name="PathRenewal2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_2\RENEWAL\</Value>
+    </Setting>
+    <Setting Name="PathEndorsement2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_2\ENDORSEMENT\</Value>
+    </Setting>
+    <Setting Name="PathCancellation2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_2\CANCELLATION\</Value>
+    </Setting>
+    <Setting Name="PathNewBusiness3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_3\NEW\</Value>
+    </Setting>
+    <Setting Name="PathRenewal3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_3\RENEWAL\</Value>
+    </Setting>
+    <Setting Name="PathEndorsement3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_3\ENDORSEMENT\</Value>
+    </Setting>
+    <Setting Name="PathCancellation3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_3\CANCELLATION\</Value>
+    </Setting>
+    <Setting Name="PathNewBusiness4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_4\NEW\</Value>
+    </Setting>
+    <Setting Name="PathRenewal4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_4\RENEWAL\</Value>
+    </Setting>
+    <Setting Name="PathEndorsement4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_4\ENDORSEMENT\</Value>
+    </Setting>
+    <Setting Name="PathCancellation4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_4\CANCELLATION\</Value>
+    </Setting>
+    <Setting Name="PathNewBusinessFST1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS\NEWFST\</Value>
+    </Setting>
+    <Setting Name="PathNewBusinessFST2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_2\NEWFST\</Value>
+    </Setting>
+    <Setting Name="PathNewBusinessFST3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_3\NEWFST\</Value>
+    </Setting>
+    <Setting Name="PathNewBusinessFST4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\SCN_DOCS_4\NEWFST\</Value>
+    </Setting>
+    <Setting Name="PathQueuedNewBusinessFST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\QUEUED_SCN_DOCS\NEWFST\</Value>
+    </Setting>
+    <Setting Name="PathUnknownNewBusinessFST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\HNBGI\UNKNOWN_SCN_DOCS\NEWFST\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
